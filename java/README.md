@@ -1,0 +1,1 @@
+java /android examples/samples for aws dynamodb,S3bucket,cognito
